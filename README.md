@@ -5,6 +5,10 @@
 
 React-Redux Bookstore is a React-Redux project where users can manage and organize their books.
 
+## Screen Shot
+
+![](./src/bookstore.png)
+
 
 ## Built With
 
